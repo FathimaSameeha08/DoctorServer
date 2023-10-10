@@ -1,0 +1,14 @@
+{
+  "name": "doc-server",
+  "version": "1.0.0",
+  "description": "json server for doc appoinment app",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Fathima Sameeha",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
